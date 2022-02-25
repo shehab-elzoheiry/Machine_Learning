@@ -1,2 +1,2 @@
 # Machine_Learning
-### README.md
+### This repository is a gathering for my machine learning scripts (python).
